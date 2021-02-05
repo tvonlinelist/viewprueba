@@ -1,0 +1,284 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="/logos/tntsports.png",TNT SPORTS
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=tnt-sports&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/fox-sports-premium1.png",FOX SPORTS PREMIUM
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=fox-sports-premium&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tudn.png",TUDN
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=tudn&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/goltvlatino.png",GOLTV Latino en vivo Online
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=goltvlatino&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/beinlatino.png",Bein Sports Latino en vivo Online
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=beinlatino&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/vtv.png",VTV URUGUAY
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=vtv&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/caracoltv.png",CARACOL TV
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=caracoltv&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/golperu.png",GOL PERU
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=golperu&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/cdf.png",CDF
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=cdfpremium&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxsports1ar.png",FOX SPORTS ARGENTINA
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=fox-sports1ar&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxsports2ar.png",FOX SPORTS 2 ARGENTINA
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=fox-sports2ar&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxsports3ar.png",FOX SPORTS 3 ARGENTINA
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=fox-sports3ar&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/espnar.png",ESPN ARGENTINA
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=espn1ar&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/espn2ar.png",ESPN 2 ARGENTINA
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=espn2ar&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/espn3ar.png",ESPN 3 ARGENTINA
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=espn3ar&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxsports1mx.png",FOX SPORTS MEXICO
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=fox-sports1mx&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxsports2mx.png",FOX SPORTS 2 MEXICO
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=fox-sports2mx&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxsports3mx.png",FOX SPORTS 3 MEXICO
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=fox-sports3mx&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/espnmx.png",ESPN MEXICO
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=espn1mx&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/espn2mx.png",ESPN 2 MEXICO
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=espn2mx&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/espn3mx.png",ESPN 3 MEXICO
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=espn3mx&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/espnmasar.png",ESPN + ARGENTINA
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=espn+ar&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/directvsports.png",DIRECTV SPORTS
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=directv-sports&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/directvsports2.png",DIRECTV SPORTS 2
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=directv-sports2&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/directv-sports-plus.png",DIRECTV SPORTS PLUS
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=directv-sports-plus&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tyc.png",TYC SPORTS
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=tyc&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/golflatino.png",GOLF CHANNEL
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=golflatino&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxaction.png",FOX PREMIUM ACTION
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxaction&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/adrenalinatv.png",ADRENALINA SPORTS
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=adrenalinatv&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/aym.png",AYM SPORTS
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=aymsports&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/univisiondeportes.png",UNIVISION DEPORTES
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=univisiondeportes&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/win.png",WIN SPORTS
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=winsports&f=.m3u8
+
+#EXTINF:-1 tvg-logo="/logos/telefe.png",TELEFE
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=telefe&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/eltrece.png",EL TRECE
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=eltrece&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/america2.png",AMERICA TV
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=america2&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tvpublica.png",TV PUBLICA
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=tvpublica&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tn.png",TN ARGENTINA
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=tn&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/c5n.png",C5N ARGENTINA
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=c5n&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/canalnueve.png",EL NUEVE
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=canal9ar&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/canal26.png",CANAL 26
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=canal26ar&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/cronicatv.png",CRONICA TV
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=cronicatv&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/ciudadmagazine.png",CIUDAD MAGAZINE
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=ciudadmagazine&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/a24.png",A 24
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=a24&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/vtv.png",VTV URUGUAY
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=vtv&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/caracoltv.png",CARACOL TV
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=caracoltv&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/televisabajio.png",TELEVISA DEL BAJIO
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=canalbajio&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/canal5televisa.png",CANAL 5 TELEVISA
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=canal5televisa&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/azteca.png",AZTECA 1
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=azteca&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/azteca7.png",AZTECA SIETE
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=azteca7&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/aztecamas.png",AZTECA MAS
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=aztecamas&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/aztecacinema.png",AZTECA CINEMA
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=aztecacinema&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/aztecamundo.png",AZTECA MUNDO
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=aztecamundo&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/aztecacorazon.png",AZTECA CORAZON
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=aztecacorazon&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/canalestrellas.png",CANAL LAS ESTRELLAS
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=canalestrellas&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/telenovelas.png",TLNOVELAS
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=telenovelas&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/mtvlatino.png",MTV LATINO
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=mtv&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxlatino.png",FOX LATINO
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=fox&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxaction.png",FOX PREMIUM ACTION
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxaction&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxseries.png",FOX PREMIUM SERIES
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxseries&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxfamily.png",FOX PREMIUM FAMILY
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxfamily&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxcinema.png",FOX PREMIUM CINEMA
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxcinema&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxcomedy.png",FOX PREMIUM COMEDY
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxcomedy&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxclassics.png",FOX PREMIUM CLASICS
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxclassics&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxmovies.png",FOX PREMIUM MOVIES
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxmovies&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/foxlifelatino.png",FOX LIFE LATINO
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=foxlife&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/hbo.png",HBO LATINO
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=hbo&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/hbo2.png",HBO 2
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=hbo2&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/hboplus.png",HBO PLUS
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=hboplus&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/hbofamily.png",HBO FAMILY
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=hbofamily&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/hbosignature.png",HBO SIGNATURE
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=hbosignature&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/hboxtreme.png",HBO XTREME
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=maxprime&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/hbomundi.png",HBO MUNDI
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=maxlatino&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/hbopop.png",HBO POP
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=maxup&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/golden.png",GOLDEN
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=golden&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/goldenplus.png",GOLDEN PLUS
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=goldenplus&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/goldenedge.png",GOLDEN EDGE
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=goldenedge&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/cinemax.png",CINEMAX
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=cinemax&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/cinecanal.png",CINECANAL
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=cinecanal&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tntlatino.png",TNT LATINO
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=tnt&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tntseries.png",TNT SERIES
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=tntseries&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/axnlatino.png",AXN LATINO
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=axn&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/amclatino.png",AMC LATINO
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=amc&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tcmlatino.png",TCM LATINO
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=tcm&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/syfy.png",SYFY LATINO
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=syfy&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/fxm.png",FXM
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=fxm&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/fx.png",FX
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=fx&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/space.png",SPACE
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=space&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/comedycentrallatino.png",COMEDY CENTRAL LATINO
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=comedycentral&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/paramountlatino.png",PARAMOUNT CHANNEL LATINO
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=paramountchannel&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/sony.png",SONY
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=sony&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tbs.png",TBS
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=tbs&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/studiouniversal.png",STUDIO UNIVERSAL
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=studiouniversal&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/universalchannel.png",UNIVERSAL CHANNEL
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=universalchannel&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/warner.png",WARNER
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=warner&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/depelicula.png",DE PELICULA
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=depelicula&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/distritocomedia.png",DISTRITO COMEDIA
+https://blackghost.live/play/wistream-202.php?cat=latinos&ch=distritocomedia
+
+
+
+
+#EXTINF:-1 tvg-logo="/logos/historylatino.png",HISTORY
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=history&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/history2.png",HISTORY 2
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=history2&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/discoverychannellatino.png",DISCOVERY CHANNEL
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=discoverychannel&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tlc.png",DISCOVERY TLC
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=tlc&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/discoverycivilization.png",DISCOVERY CIVILIZATION
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=discoverycivilization&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/discoveryturbo.png",DISCOVERY TURBO
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=discoveryturbo&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/discoverytheater.png",DISCOVERY THEATER
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=discoverytheater&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/discoverysci.png",DISCOVERY SCIENCIE
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=discoverysciencie&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/invdiscovery.png",INVESTIGACION DISCOVERY
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=discoveryinvestigacion&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/discoveryhh.png",DISCOVERY H&H
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=discoveryhh&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/discoveryworl.png",DISCOVERY WORL
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=discoveryworl&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/nationalgeographiclatino.png",NATIONAL GEOGRAPHIC
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=nationalgeo&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/natgeowilllatino.png",NAT GEO WILL
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=nationalwill&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/ae.png",A&E
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=ae&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/animalplanet.png",ANIMAL PLANET
+http://blackghost.live/play/wistream-202.php?cat=latinos&ch=animalplanet&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="/logos/cartoonnetwork.png",cartoon network
+http://blackghost.live/play/wistream-202.php?cat=infantiles&ch=cartoonnetwork&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/discoverykids.png",discovery kids
+http://blackghost.live/play/wistream-202.php?cat=infantiles&ch=discoverykids&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/disneyjunior.png",disney junior
+http://blackghost.live/play/wistream-202.php?cat=infantiles&ch=disneyjunior&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/disneyxd.png",disney xd
+http://blackghost.live/play/wistream-202.php?cat=infantiles&ch=disneyxd&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/disneychannel.png",disney channel
+http://blackghost.live/play/wistream-202.php?cat=infantiles&ch=disneychannel&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/nick.png",nick
+http://blackghost.live/play/wistream-202.php?cat=infantiles&ch=nick&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/nicktoons.png",nicktoons
+http://blackghost.live/play/wistream-202.php?cat=infantiles&ch=nicktoons&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/babyfirst.png",babyfirst
+http://blackghost.live/play/wistream-202.php?cat=infantiles&ch=babyfirst&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tooncast.png",tooncast
+http://blackghost.live/play/wistream-202.php?cat=infantiles&ch=tooncast&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/boomerang.png",boomerang
+http://blackghost.live/play/wistream-202.php?cat=infantiles&ch=boomerang&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/boing.png",boing
+http://blackghost.live/play/wistream-202.php?cat=infantiles&ch=boing&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/clantv.png",clantv
+http://blackghost.live/play/wistream-202.php?cat=infantiles&ch=clantv&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/pakapaka.png",paka paka
+http://blackghost.live/play/wistream-202.php?cat=infantiles&ch=pakapaka&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/kidstv.png",kidstv
+http://blackghost.live/play/wistream-202.php?cat=infantiles&ch=kidstv&f=.m3u8
+
+
+#EXTINF:-1 ,Futbol España Bein Sports (datv)*
+http://blackghost.live/play/wistream2.php?canal=beinsports&f=.m3u8
+#EXTINF:-1 ,Futbol Colombia (datv)*
+http://blackghost.live/play/wistream2.php?canal=c13&f=.m3u8
+#EXTINF:-1 ,Futbol Chile (datv)*
+http://blackghost.live/play/wistream2.php?canal=c2&f=.m3u8
+#EXTINF:-1 ,Futbol Argentina fox premium (datv)*
+http://blackghost.live/play/wistream2.php?canal=fx&f=.m3u8
+#EXTINF:-1 ,Futbol Argentina tntsport (datv)*
+http://blackghost.live/play/wistream2.php?canal=sptnt&f=.m3u8
+
+#EXTINF:-1 ,Futbol Ecuador (datv)*
+http://blackghost.live/play/wistream2.php?canal=c4&f=.m3u8
+#EXTINF:-1 ,Futbol Ecuador 2 (datv)*
+http://blackghost.live/play/wistream2.php?canal=ecua1&f=.m3u8
+#EXTINF:-1 ,Futbol Ecuador 3 (datv)*
+http://blackghost.live/play/wistream2.php?canal=ecua2&f=.m3u8
+#EXTINF:-1 ,Futbol Ecuador 4 (datv)*
+http://blackghost.live/play/wistream2.php?canal=ecua3&f=.m3u8
+
+#EXTINF:-1 ,Futbol MEXICO TUDN (datv)*
+http://blackghost.live/play/wistream2.php?canal=td&f=.m3u8
+#EXTINF:-1 ,Futbol MEXICO Foxsports (datv)*
+http://blackghost.live/play/wistream2.php?canal=fx2&f=.m3u8
