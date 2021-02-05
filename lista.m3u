@@ -5,19 +5,35 @@ https://5fa5de1a545ae.streamlock.net/turistik/turistik/.m3u8
 http://cinematicket.club/cantp.php?c=184&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-logo="", PLUTOTV - STAND UP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8f8e7598841d0007bf35b3/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&clientModelNumber=na&deviceDNT=false&deviceId=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&deviceLat=25.6875&deviceLon=-100.3031&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=VE&serverSideAds=true&sessionID=50dca9d6-6433-11eb-9e0f-0242ac110002&sid=50dca9d6-6433-11eb-9e0f-0242ac110002&userId=
-#EXTINF:0 tvg-logo="", PLUTOTV - BABY FIRST
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&clientModelNumber=na&deviceDNT=false&deviceId=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&deviceLat=25.6875&deviceLon=-100.3031&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=VE&serverSideAds=true&sessionID=50dca9d6-6433-11eb-9e0f-0242ac110002&sid=50dca9d6-6433-11eb-9e0f-0242ac110002&userId=
-#EXTINF:0 tvg-logo="", PLUTOTV - JUNIOR
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&clientModelNumber=na&deviceDNT=false&deviceId=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&deviceLat=25.6875&deviceLon=-100.3031&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=VE&serverSideAds=true&sessionID=50dca9d6-6433-11eb-9e0f-0242ac110002&sid=50dca9d6-6433-11eb-9e0f-0242ac110002&userId=
-#EXTINF:0 tvg-logo="", PLUTOTV - NICK JR CLUB
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&clientModelNumber=na&deviceDNT=false&deviceId=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&deviceLat=25.6875&deviceLon=-100.3031&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=VE&serverSideAds=true&sessionID=50dca9d6-6433-11eb-9e0f-0242ac110002&sid=50dca9d6-6433-11eb-9e0f-0242ac110002&userId=
-#EXTINF:0 tvg-logo="", PLUTOTV - LAS PISTAS DE BLUE
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&clientModelNumber=na&deviceDNT=false&deviceId=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&deviceLat=25.6875&deviceLon=-100.3031&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=VE&serverSideAds=true&sessionID=50dca9d6-6433-11eb-9e0f-0242ac110002&sid=50dca9d6-6433-11eb-9e0f-0242ac110002&userId=
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , TELEMUNDO NOVELAS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , TELEMUNDO 39
-https://kxtxlive-lh.akamaihd.net/i/KXTX_LIVE1@183614/master.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , AZTECA UNO
-https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/441852a3-e191-4578-b7e3-4944424d4f58:BRU/master.m3u8
-#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , AZTECA 7
-https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/361b5ba0-ce07-46c7-8cfa-31432ef7956f:BRU/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="TPLEY", Azteca Uno (HD)
+http://cinematicket.club/cantp.php?c=7&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="TPLEY", Canal 5 (HD)
+http://cinematicket.club/cantp.php?c=1785&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="TPLEY", Cartoon Network
+http://cinematicket.club/cantp.php?c=112&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc.png" group-title="TPLEY", Golden
+http://cinematicket.club/cantp.php?c=123&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starmovies.png" group-title="TPLEY", Fox Premium Movies 
+http://cinematicket.club/cantp.php?c=146&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="TPLEY", Fox Channel
+http://cinematicket.club/cantp.php?c=46&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clasico.png" group-title="TPLEY", Distrito Comedia
+http://cinematicket.club/cantp.php?c=78&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="TPLEY", Fox Sports
+http://cinematicket.club/cantp.php?c=170&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="TPLEY", TUDN
+http://cinematicket.club/cantp.php?c=1049&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="TPLEY", Discovery Home & Health
+http://cinematicket.club/cantp.php?c=96&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="TPLEY", MTV
+http://cinematicket.club/cantp.php?c=212&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/thp.png" group-title="TPLEY", Telehit Música Plus
+http://cinematicket.club/cantp.php?c=220&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bmax.png" group-title="TPLEY", Bandamax
+http://cinematicket.club/cantp.php?c=221&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="SOLO PARA ROKOOS", National Geographic | HD
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97927/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="SOLO PARA ROKOOS", HBO (Alt.)
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/281/12?f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/goldenplus.png" group-title="wistream",GOLDEN PLUS
+https://blackghost.live/play/wistream-129.php?cat=latinos&ch=goldenplus&f=.m3u8
