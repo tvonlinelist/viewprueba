@@ -13,3 +13,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c50009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&clientModelNumber=na&deviceDNT=false&deviceId=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&deviceLat=25.6875&deviceLon=-100.3031&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=VE&serverSideAds=true&sessionID=50dca9d6-6433-11eb-9e0f-0242ac110002&sid=50dca9d6-6433-11eb-9e0f-0242ac110002&userId=
 #EXTINF:0 tvg-logo="", PLUTOTV - LAS PISTAS DE BLUE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&clientModelNumber=na&deviceDNT=false&deviceId=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&deviceLat=25.6875&deviceLon=-100.3031&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=VE&serverSideAds=true&sessionID=50dca9d6-6433-11eb-9e0f-0242ac110002&sid=50dca9d6-6433-11eb-9e0f-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , TELEMUNDO NOVELAS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=293d&deviceDNT=0&deviceModel=0&already_redirected=true
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , TELEMUNDO 39
+https://kxtxlive-lh.akamaihd.net/i/KXTX_LIVE1@183614/master.m3u8
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , AZTECA UNO
+https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/441852a3-e191-4578-b7e3-4944424d4f58:BRU/master.m3u8
+#EXTINF:-1 tvg-logo="http://srregio.net/img/img.php" , AZTECA 7
+https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/361b5ba0-ce07-46c7-8cfa-31432ef7956f:BRU/master.m3u8
