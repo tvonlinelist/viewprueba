@@ -3,37 +3,39 @@
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K4LP6Wk.png" group-title="México", ADN 40 | HD
 http://cinematicket.club/cantp.php?c=184&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tln.png" group-title="México", Tlnovelas
+http://cinematicket.club/cantp.php?c=83&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-logo="", PLUTOTV - STAND UP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8f8e7598841d0007bf35b3/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&clientModelNumber=na&deviceDNT=false&deviceId=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&deviceLat=25.6875&deviceLon=-100.3031&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=VE&serverSideAds=true&sessionID=50dca9d6-6433-11eb-9e0f-0242ac110002&sid=50dca9d6-6433-11eb-9e0f-0242ac110002&userId=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="TPLEY", Azteca Uno (HD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="México", Azteca Uno (HD)
 http://cinematicket.club/cantp.php?c=7&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="TPLEY", Canal 5 (HD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png" group-title="México", Canal 5 (HD)
 http://cinematicket.club/cantp.php?c=1785&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="TPLEY", Cartoon Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png" group-title="México", Cartoon Network
 http://cinematicket.club/cantp.php?c=112&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc.png" group-title="TPLEY", Golden
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc.png" group-title="México", Golden
 http://cinematicket.club/cantp.php?c=123&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starmovies.png" group-title="TPLEY", Fox Premium Movies 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starmovies.png" group-title="México", Fox Premium Movies 
 http://cinematicket.club/cantp.php?c=146&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="TPLEY", Fox Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="México", Fox Channel
 http://cinematicket.club/cantp.php?c=46&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clasico.png" group-title="TPLEY", Distrito Comedia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clasico.png" group-title="México", Distrito Comedia
 http://cinematicket.club/cantp.php?c=78&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="TPLEY", Fox Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="México", Fox Sports
 http://cinematicket.club/cantp.php?c=170&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="TPLEY", TUDN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="México", TUDN
 http://cinematicket.club/cantp.php?c=1049&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="TPLEY", Discovery Home & Health
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="México", Discovery Home & Health
 http://cinematicket.club/cantp.php?c=96&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="TPLEY", MTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" group-title="México", MTV
 http://cinematicket.club/cantp.php?c=212&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/thp.png" group-title="TPLEY", Telehit Música Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/thp.png" group-title="México", Telehit Música Plus
 http://cinematicket.club/cantp.php?c=220&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bmax.png" group-title="TPLEY", Bandamax
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bmax.png" group-title="México", Bandamax
 http://cinematicket.club/cantp.php?c=221&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="SOLO PARA ROKOOS", National Geographic | HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png" group-title="México", National Geographic | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97927/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="SOLO PARA ROKOOS", HBO (Alt.)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="México", HBO (Alt.)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/281/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="TPLEY", Golden Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="México", Golden Plus
 http://cinematicket.club/cantp.php?c=122&p=3&k=tecnotv&f=.m3u8
