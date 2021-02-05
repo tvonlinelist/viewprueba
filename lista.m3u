@@ -5,7 +5,7 @@ https://5fa5de1a545ae.streamlock.net/turistik/turistik/.m3u8
 http://cinematicket.club/cantp.php?c=184&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tln.png" group-title="México", Tlnovelas
 http://cinematicket.club/cantp.php?c=83&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-logo="", PLUTOTV - STAND UP
+#EXTINF:0 tvg-logo="", group-title="México", PLUTOTV - STAND UP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8f8e7598841d0007bf35b3/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&clientModelNumber=na&deviceDNT=false&deviceId=8609f043-2fb5-440a-ab90-ff5dcbfb5de4&deviceLat=25.6875&deviceLon=-100.3031&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=VE&serverSideAds=true&sessionID=50dca9d6-6433-11eb-9e0f-0242ac110002&sid=50dca9d6-6433-11eb-9e0f-0242ac110002&userId=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="México", Azteca Uno (HD)
 http://cinematicket.club/cantp.php?c=7&p=3&k=tecnotv&f=.m3u8
