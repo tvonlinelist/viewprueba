@@ -5,3 +5,11 @@ https://5fa5de1a545ae.streamlock.net/turistik/turistik/.m3u8
 http://cinematicket.club/cantp.php?c=184&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/canal5hd_thumb_bpfijbs5.png", group-title="México", CANAL 5 MX
 http://tecnotv.club/luna/smartv2.php?c=1869&f=.m2u8
+#EXTINF:-1 group-title="TV PREMIUM 2" logo="https://www.televall.online/gallery/espn-mexico_thumb_ry1r2en2.png" group-title="TV PREMIUM 2",ESPN 1 MX
+http://tecnotv.club/luna/smartv2.php?c=1876&f=.m2u8
+#EXTINF:-1 group-title="TV PREMIUM 2" logo="https://www.televall.online/gallery/fox-sports-mexico_thumb_9ad90c76.png" group-title="TV PREMIUM 2",FOX SPORTS 1 MX
+http://tecnotv.club/luna/smartv2.php?c=1873&f=.m2u8
+#EXTINF:-1 group-title="TV PREMIUM 2" logo="https://www.televall.online/gallery/fox-action_thumb_ywlczopo.png" group-title="TV PREMIUM 2",FOX Action
+https://blackghost.live/play/tlvall-202.php?c=1496&f=.m2u8
+#EXTINF:-1 group-title="TV PREMIUM 2" logo="https://www.televall.online/gallery/hbo_thumb_wx1w8ql5.png" group-title="TV PREMIUM 2",HBO
+https://blackghost.live/play/tlvall-202.php?c=1467&f=.m2u8
