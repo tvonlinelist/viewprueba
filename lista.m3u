@@ -4,12 +4,4 @@ https://5fa5de1a545ae.streamlock.net/turistik/turistik/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K4LP6Wk.png" group-title="México", ADN 40 | HD
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Cartoon Network [HD]
-https://teleclub.xyz/canal/canales?latino=CARTOON_HD&format=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XW8CuxK.jpg" group-title="Entretenimiento", TLC [SD]
-https://teleclub.xyz/canal/canales?latino=TLC_SD&format=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pWW9ljW.jpg" group-title="Entretenimiento", Distrito Comedia [SD]
-https://teleclub.xyz/canal/canales?latino=DISTRITOCOMEDIA_SD&format=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="HBOPremium", HBO [HD]
-https://teleclub.xyz/canal/canales?latino=HBO_HD&format=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7hYf69M.jpg" group-title="FOXPremium", Fox Premium Action [HD]
-https://teleclub.xyz/canal/canales?latino=FOXACTION_HD&format=.m3u8
+http://tv.nousiptv.com:8080/Lucy/123456/4025
