@@ -37,3 +37,15 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/97927/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/281/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="México", Golden Plus
 http://cinematicket.club/cantp.php?c=122&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 group-TITLE="2020",  Soul
+http://tv.nousiptv.com:8080/movie/Lucy/123456/1067445.mp4 
+#EXTINF:-1 group-TITLE="2020",  Los Nuevos Mutantes
+http://player.flumx.mx/Moviesmp4/los-nuevos-mutantes.mp4 
+#EXTINF:-1 group-TITLE="2020",  Superniños
+http://tv.nousiptv.com:8080/movie/Lucy/123456/1067448.mkv 
+#EXTINF:-1 group-TITLE="2020",  Sonic
+http://player.flumx.mx/Moviesmp4/Sonic.mp4 
+#EXTINF:-1 group-TITLE="2020",  Mulan
+http://player.flumx.mx/Moviesmp4/Mulán+-+Mulan+(2020) 
+#EXTINF:-1 group-TITLE="2020",  Mujer maravilla 1984
+http://flumx.mx/Moviesmp4/mujer-maravilla.mp4 
