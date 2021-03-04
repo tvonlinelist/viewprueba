@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rEbKUr.png" group-title="México", MVS Noticias
+https://stream-04.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOPyXRr48OcouqVyuDECgDz2pfH-A2FvZZMHBr1JN9k8R)/p/dm/3/x6t7n6t/s/stream-1-1614888680.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7rEbKUr.png" group-title="México", Turistik TV | SD
 https://5fa5de1a545ae.streamlock.net/turistik/turistik/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K4LP6Wk.png" group-title="México", ADN 40 | HD
